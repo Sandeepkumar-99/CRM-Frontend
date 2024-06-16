@@ -3,13 +3,18 @@ import './App.css';
 
 import { Entry } from './pages/entry/Entry.page';
 import { DefaultLayout } from './layout/DefaultLayout';
+import { Dashboard } from './pages/Dashboard/Dashboard.page';
 
 function App() {
   return (
     <div className="App">
       {/* <Entry /> */}
 
-      <DefaultLayout> Main Page content</DefaultLayout>
+      <DefaultLayout>
+
+         <Dashboard />
+
+      </DefaultLayout>
     </div>
   );
 }
