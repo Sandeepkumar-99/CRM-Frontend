@@ -1,51 +1,61 @@
 [
     {
         "id": 1,
+        "subject": "Issue with SSL Certificate",
         "status": "Client Response Pending",
         "addedAt": "06/15/2024"
     },
     {
         "id": 2,
-        "status": "Client Response Pending",
+        "subject": "Server Timeout Errors",
+        "status": "Processing",
         "addedAt": "06/16/2024"
     },
     {
         "id": 3,
-        "status": "Client Response Pending",
+        "subject": "Database Connectivity Issue",
+        "status": "Completed",
         "addedAt": "06/17/2024"
     },
     {
         "id": 4,
+        "subject": "Unable to Access Email",
         "status": "Client Response Pending",
         "addedAt": "06/18/2024"
     },
     {
         "id": 5,
-        "status": "Client Response Pending",
+        "subject": "Error 404 on Homepage",
+        "status": "Processing",
         "addedAt": "06/19/2024"
     },
     {
         "id": 6,
-        "status": "Client Response Pending",
+        "subject": "Payment Gateway Error",
+        "status": "Completed",
         "addedAt": "06/20/2024"
     },
     {
         "id": 7,
+        "subject": "Account Locked",
         "status": "Client Response Pending",
         "addedAt": "06/21/2024"
     },
     {
         "id": 8,
-        "status": "Client Response Pending",
+        "subject": "Website Loading Slowly",
+        "status": "Processing",
         "addedAt": "06/22/2024"
     },
     {
         "id": 9,
-        "status": "Client Response Pending",
+        "subject": "Data Backup Failed",
+        "status": "Completed",
         "addedAt": "06/23/2024"
     },
     {
         "id": 10,
+        "subject": "Email Bounce Back",
         "status": "Client Response Pending",
         "addedAt": "06/24/2024"
     }
