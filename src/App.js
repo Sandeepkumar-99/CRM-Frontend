@@ -1,9 +1,10 @@
 import React from 'react';
 import './App.css';
 
-import { Entry } from './pages/entry/Entry.page';
+// import { Entry } from './pages/entry/Entry.page';
 import { DefaultLayout } from './layout/DefaultLayout';
-import { Dashboard } from './pages/Dashboard/Dashboard.page';
+// import { Dashboard } from './pages/Dashboard/Dashboard.page';
+import { AddTicket } from './pages/New-Ticket/AddTicketPage';
 
 function App() {
   return (
@@ -12,7 +13,9 @@ function App() {
 
       <DefaultLayout>
 
-         <Dashboard />
+         {/* <Dashboard /> */}
+         <AddTicket />
+
 
       </DefaultLayout>
     </div>

@@ -1,4 +1,4 @@
-import React, { Children } from 'react'
+import React from 'react'
 import { Header } from './partials/Header.comp'
 import { Footer } from './partials/Footer.comp'
 
